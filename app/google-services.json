@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "73585117667",
+    "firebase_url": "https://covenantuniversitypq-4cf30.firebaseio.com",
+    "project_id": "covenantuniversitypq-4cf30",
+    "storage_bucket": "covenantuniversitypq-4cf30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73585117667:android:9d341c4e52769c09",
+        "android_client_info": {
+          "package_name": "com.example.engrbalogungift.covenantuniversitypq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73585117667-8gubf4la8siqp2elhl4al4qtgh6oi58q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.engrbalogungift.covenantuniversitypq",
+            "certificate_hash": "7f6d2960f3a33edb844904ee2e9a300c6d92db83"
+          }
+        },
+        {
+          "client_id": "73585117667-h4aqguk2eip0ku5p4k5oshv78rfthvfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fua41h1WXq67Qc0VEv_GaO0K7oQ81qY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73585117667-h4aqguk2eip0ku5p4k5oshv78rfthvfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
